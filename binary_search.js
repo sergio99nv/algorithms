@@ -1,6 +1,6 @@
 
 
-
+//
 const binarySearch = (array, number) =>{
 	let tries = 1;
   let min = 0;
